@@ -1,4 +1,4 @@
-# Rabbit-Wolf Simulation; Made by Adrian Klos; All Rights Reserved
+# Rabbit-Wolf Simulation; Made by Adrian Klos
 import random
 
 years = 100  # years
