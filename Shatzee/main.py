@@ -1,3 +1,4 @@
+#Shatzee; Made by Adrian Klos
 import random
 ticket = 30
 money = 0
