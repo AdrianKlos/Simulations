@@ -42,8 +42,6 @@ def rollwdice():
 
 def main():
     global money, s, gs, ticket, rounds
-    #choice = int(input("Roll Dice (1)"))
-    #if choice == 1:
     for i in range(rounds):
         rollddice()
     print("--00--")
