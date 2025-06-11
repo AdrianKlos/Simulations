@@ -23,10 +23,10 @@ def rabbitwolfsim():
     num_wolves = []
     num_grass = []
     for x in range(10):
-        rabbit.append(10)
+        rabbit.append(10) # 10 represents the amount of energy a rabbit has
         rabbitage.append(0)
     for x in range(2):
-        wolf.append(50)
+        wolf.append(50) # see above comment
         wolfage.append(0)
     years = years
     for x in range(years):
